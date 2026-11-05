@@ -8,6 +8,7 @@
 
 ## Play and watch
 
+- **Play on itch.io:** [croth03.itch.io/depth-perception](https://croth03.itch.io/depth-perception)
 - **Windows build:** [Download Depth Perception](https://github.com/croth03/depth_perception_game/releases/download/v1.0-submission/DepthPerception_Windows.zip)
 - **47-second trailer:** [Watch in the repository](Docs/Trailer/DepthPerception_Trailer.mp4) · [Release download](https://github.com/croth03/depth_perception_game/releases/download/v1.0-submission/DepthPerception_Trailer.mp4)
 - **Public repository:** [github.com/croth03/depth_perception_game](https://github.com/croth03/depth_perception_game)

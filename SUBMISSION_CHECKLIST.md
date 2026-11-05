@@ -72,7 +72,8 @@ Build audit note: the standalone player launched and remained stable during the 
 
 ## Optional extra credit
 
-- [ ] Publish the build on Itch.io.
+- [x] Publish the build on Itch.io: [croth03.itch.io/depth-perception](https://croth03.itch.io/depth-perception).
 - [ ] Add cover artwork, controls, screenshots, and download/play instructions.
-- [ ] Add the Itch.io URL to `README.md` and the Canvas submission comments.
+- [x] Add the Itch.io URL to `README.md`.
+- [ ] Add the Itch.io URL to the Canvas submission comments.
 
