@@ -25,7 +25,7 @@ Public repository: [https://github.com/croth03/depth_perception_game](https://gi
 - [x] `REWARD_DAMAGE_END.md` preserves the final gameplay-triad explanation and active Tripo inventory.
 - [x] `REFERENCE_ITEMS_AND_ASSET_ATTRIBUTION.md` contains inspiration, moodboards, tool inventory, and license sheet.
 - [x] `README.md` contains controls, gameplay triad, Tripo inventory, documentation, and release links.
-- [ ] Commit and push the current production project and documents.
+- [x] Commit and push the current production project and documents (`1a87380`).
 
 ## Build
 
@@ -33,8 +33,8 @@ Public repository: [https://github.com/croth03/depth_perception_game](https://gi
 - [x] Launch the packaged build outside the Editor (15-second standalone smoke test completed November 4, 2026).
 - [ ] Verify `MainMenu → Level01_Valley → Door → EndScreen → MainMenu`.
 - [x] Zip as `DepthPerception_Windows.zip` (135,487,395 bytes; SHA-256 `0805F7E829DEB10746F2D1DF0CEF1E3F938A0D4D73635B62514C97A2F89980EF`).
-- [ ] Upload to GitHub Release `v1.0-submission`.
-- [ ] Confirm the README build link works while signed out.
+- [x] Upload to GitHub Release `v1.0-submission`.
+- [x] Confirm the public repository and published release resolve while signed out; release assets are listed as uploaded with matching checksums.
 
 Build audit note: the standalone player launched and remained stable during the smoke test. Its log contained no gameplay exception or compilation failure. It did contain blocked Unity analytics/network requests and warnings that optional Gaussian/Bokeh Depth of Field and Panini Projection shaders were stripped from the player; these were not interruption errors.
 
@@ -49,7 +49,7 @@ Build audit note: the standalone player launched and remained stable during the 
 - [x] Use project audio and maintain a readable mix.
 - [x] Record shot prompts and trailer audio usage in `PROMPT_LOG.md`.
 - [x] Export as `DepthPerception_Trailer.mp4` (47 seconds, 1920×1080 H.264/AAC; SHA-256 `50F32ABEF426A40201D95C58DE70CCDBF4ACABE6E56337A8C0E2B80E37344A48`).
-- [ ] Upload to GitHub Release `v1.0-submission` and confirm the README link.
+- [x] Upload to GitHub Release `v1.0-submission` and confirm the README link.
 
 ## Attribution and legal record
 
@@ -64,10 +64,10 @@ Build audit note: the standalone player launched and remained stable during the 
 ## Final GitHub/Canvas checks
 
 - [x] Repository is public.
-- [ ] GitHub Release contains the Windows build and trailer.
-- [ ] README links resolve from the public repository.
-- [ ] No `Library/`, root `Temp/`, `Logs/`, `UserSettings/`, local screenshots, or restore snapshots are committed.
-- [ ] No non-LFS file exceeds GitHub's 100 MB limit.
+- [x] GitHub Release contains the Windows build and trailer.
+- [x] README links resolve from the public repository.
+- [x] No `Library/`, root `Temp/`, `Logs/`, `UserSettings/`, local screenshots, or restore snapshots are committed.
+- [x] No non-LFS file exceeds GitHub's 100 MB limit.
 - [ ] Submit only this URL to Canvas: `https://github.com/croth03/depth_perception_game`
 
 ## Optional extra credit

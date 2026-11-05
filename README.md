@@ -12,9 +12,9 @@
 - **47-second trailer:** [Watch in the repository](Docs/Trailer/DepthPerception_Trailer.mp4) · [Release download](https://github.com/croth03/depth_perception_game/releases/download/v1.0-submission/DepthPerception_Trailer.mp4)
 - **Public repository:** [github.com/croth03/depth_perception_game](https://github.com/croth03/depth_perception_game)
 
-> Release note: the Windows ZIP has been built and smoke-tested locally. Release-download links become active after the `v1.0-submission` GitHub Release is published.
+The `v1.0-submission` GitHub Release is published. The Windows ZIP was built and smoke-tested locally; both release downloads are publicly listed with verified upload checksums.
 
-If the release links have not been published yet, open the project with Unity `6000.6.7f1`, open `Assets/DepthPerception/Scenes/MainMenu.unity`, and enter Play Mode.
+To run from source instead, open the project with Unity `6000.6.7f1`, open `Assets/DepthPerception/Scenes/MainMenu.unity`, and enter Play Mode.
 
 ## Controls
 
