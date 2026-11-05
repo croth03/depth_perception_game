@@ -3,11 +3,16 @@
 This Unity repository contains the production game **Depth Perception**, a short atmospheric true-3D platformer presented primarily with side-scrolling movement.
 
 Deeper design source of truth:
+
 - Docs/GAME_VISION.md
 - Docs/VISUAL_LANGUAGE.md
+- Docs/ART_BIBLE.md
 - Docs/LEVEL_01_VALLEY.md
 
+For visual design, Tripo assets, characters, the Figure, the Door, rocks, vegetation, animals, fog, materials, or perceptual-state presentation, read `Docs/ART_BIBLE.md` before making changes.
+
 Critical rules:
+
 - **Trust the controls. Question the world.** Movement and collision stay dependable while perception becomes unreliable.
 - The three states are Reality, Hallucination, and Lost Reality. They are narrative/perceptual spaces, not diagnoses.
 - The world is genuinely 3D. Camera rotation and perspective reveal real depth; do not reduce the game to flat depth planes.

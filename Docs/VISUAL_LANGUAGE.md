@@ -1,5 +1,7 @@
 # Depth Perception — Visual Language
 
+This document defines the compact palette and composition rules. Detailed character, Door, rock, foliage, animal, fog, Tripo, and state-treatment direction lives in `Docs/ART_BIBLE.md`.
+
 ## Style statement
 
 Grounded, sculptural 3D landscapes dissolve from believable valley stone into authored spatial contradiction, staged against deep blue-black atmosphere with restrained cyan, violet, and muted pink evidence.
@@ -31,6 +33,10 @@ Recognizable landmarks persist, but silhouettes overlap, depth alignment conflic
 ### Lost Reality
 
 Contradiction becomes clearer, bolder, and more legible rather than noisier. Unsupported doors, repeating arches, and routes at impossible orientations establish a new grammar.
+
+## Asset interpretation
+
+Use one recognizable asset library across all three states where possible. Reality establishes credible objects, Hallucination rearranges or reinterprets them, and Lost Reality may transform them more aggressively. Do not default to unrelated meshes for every state.
 
 ## Camera and composition
 

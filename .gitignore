@@ -23,6 +23,16 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Local verification captures and restore snapshots are not shipped project content.
+/[Aa]ssets/[Tt]emp/
+/[Aa]ssets/[Dd]epth[Pp]erception/_[Rr]estore[Pp]oints/
+/[Ss]ubmission/
+
+# Local verification captures and restore snapshots are not shipped project content.
+/[Aa]ssets/[Tt]emp/
+/[Aa]ssets/[Dd]epth[Pp]erception/_[Rr]estore[Pp]oints/
+/[Ss]ubmission/
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
@@ -135,3 +145,10 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local production caches, recovery snapshots, and submission exports
+/[Aa]ssets/[Tt]emp/
+/[Aa]ssets/[Tt]emp.meta
+/[Aa]ssets/[Dd]epth[Pp]erception/_RestorePoints/
+/[Aa]ssets/[Dd]epth[Pp]erception/_RestorePoints.meta
+/[Ss]ubmission/
